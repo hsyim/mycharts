@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab22:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-17T18:41:26.6974938+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 2cfd57b6adef2d6f91327b77532b84e97747c6f52844e0e08f5901a6d632be1d
+    name: eventapp-lab22
+    urls:
+    - https://hsyim.github.io/mycharts/eventapp-lab22-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-17T18:41:26.6945297+09:00"
